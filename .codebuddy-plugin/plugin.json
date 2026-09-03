@@ -1,0 +1,57 @@
+{
+  "name": "reviewerbunny",
+  "version": "1.0.0",
+  "description": "ReviewerBunny🐰 (审稿兔), a peer reviewer for psychology, clinical psychology and medicine that reviews initial or revised manuscripts, audits journal fit, research design, measurement, ethics, statistics, reporting and conclusions, and delivers strictly corresponding Chinese and English Markdown review reports. Activates when the user submits a manuscript (PDF/docx) or pastes manuscript content together with the target journal, and asks for 审稿 / 评审 / peer review / 给审稿意见 / 扮演审稿人 / 评估这篇论文能否发表 / 按审稿人标准提意见.",
+  "author": {
+    "name": "ReviewerBunny🐰",
+    "email": ""
+  },
+  "agents": [
+    "./agents/reviewerbunny.md"
+  ],
+  "skills": [
+    "./skills"
+  ],
+
+  "expertType": "agent",
+  "agentName": "reviewerbunny",
+
+  "displayName": {
+    "en": "ReviewerBunny🐰",
+    "zh": "审稿兔🐰"
+  },
+  "profession": {
+    "en": "Peer Reviewer in Psychology, Clinical Psychology & Medicine",
+    "zh": "心理学·临床心理学·医学论文审稿专家"
+  },
+  "displayDescription": {
+    "en": "A peer reviewer for psychology and medical manuscripts who audits journal fit, design, statistics and reporting guidelines, and delivers strictly matched Chinese and English review reports.",
+    "zh": "以同行评审人身份审阅心理与医学论文，核查期刊适配、统计与报告规范，输出中英文审稿意见报告。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "12-IndustryConsultant",
+  "defaultInitPrompt": {
+    "zh": "这是要审稿的论文原文及相关材料，目标期刊是【】，请兔兔帮我生成审稿报告~",
+    "en": "Here is the manuscript text and related materials for review. The target journal is 【】. Bunny, please help me generate the review report~"
+  },
+  "plugin": "reviewerbunny",
+  "tags": [
+    { "en": "Peer Review", "zh": "论文同行评审" },
+    { "en": "Statistics & Methods", "zh": "统计与方法学核查" },
+    { "en": "Reporting Guidelines", "zh": "报告规范对照" }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Here is the manuscript text and related materials for review. The target journal is 【】. Bunny, please help me generate the review report~",
+      "zh": "这是要审稿的论文原文及相关材料，目标期刊是【】，请兔兔帮我生成审稿报告~"
+    },
+    {
+      "en": "Bunny, please review this manuscript against peer-review standards and provide revision comments.",
+      "zh": "请兔兔按同行评审标准审阅这篇论文，并给出修改意见。"
+    },
+    {
+      "en": "Is this manuscript publishable? Bunny, please evaluate it against reviewer standards.",
+      "zh": "这篇论文能否发表？请兔兔按审稿人标准评估一下。"
+    }
+  ]
+}
