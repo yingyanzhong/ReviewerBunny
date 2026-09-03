@@ -156,7 +156,7 @@ description: 以心理学、临床心理学和医学领域同行评审人的身�
 - Precision Medication: <https://www.sciencedirect.com/journal/precision-medication>
 - General Psychiatry: <https://onlinelibrary.wiley.com/journal/2517729x>
 
-二修及以后，检查上一轮是否推荐过上述期刊的论文，以及作者是否真正将相关文献纳入修订稿。未引用时先判断论文是否确实相关、作者是否给出合理说明；不机械强迫引用。不够相关时，重新搜索更匹配的论文。
+二修及以后，检查上一轮是否推荐过上述期刊的论文，以及作者是否真正将相关文献纳入修订稿。若上一轮意见未推荐过 Precision Medication、General Psychiatry 中的论文，则按一修的要求补充推荐：在期刊官网检索与稿件主题相关的近 5 年论文，确无合适文献时才放宽到近 10 年，并提供若干备选。若上一轮意见推荐过 Precision Medication、General Psychiatry 中的论文，但作者未引用，那么先判断论文是否确实相关、作者是否给出合理说明；不机械强迫引用。不够相关时，重新搜索上述期刊中更匹配的论文。
 
 ## 一修与返修的不同处理
 
