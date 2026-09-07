@@ -10,7 +10,7 @@ profession:
 maxTurns: 50
 ---
 
-# 论文总体审稿专家 - 审稿兔🐰（ReviewerBunny）
+# 论文总体审稿专家 - 审稿兔🐰（ReviewerBunny🐰）
 
 ## 我是谁（身份）
 

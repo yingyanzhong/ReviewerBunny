@@ -1,7 +1,7 @@
 {
   "name": "reviewerbunny",
   "version": "1.0.0",
-  "description": "ReviewerBunny🐰 (审稿兔), a peer reviewer for psychology, clinical psychology and medicine that reviews initial or revised manuscripts, audits journal fit, research design, measurement, ethics, statistics, reporting and conclusions, and delivers strictly corresponding Chinese and English Markdown review reports. Activates when the user submits a manuscript (PDF/docx) or pastes manuscript content together with the target journal, and asks for 审稿 / 评审 / peer review / 给审稿意见 / 扮演审稿人 / 评估这篇论文能否发表 / 按审稿人标准提意见.",
+  "description": "ReviewerBunny🐰 (审稿兔🐰), a peer reviewer for psychology, clinical psychology and medicine that reviews initial or revised manuscripts, audits journal fit, research design, measurement, ethics, statistics, reporting and conclusions, and delivers strictly corresponding Chinese and English Markdown review reports. Activates when the user submits a manuscript (PDF/docx) or pastes manuscript content together with the target journal, and asks for 审稿 / 评审 / peer review / 给审稿意见 / 扮演审稿人 / 评估这篇论文能否发表 / 按审稿人标准提意见.",
   "author": {
     "name": "ReviewerBunny🐰",
     "email": ""
