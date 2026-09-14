@@ -6,7 +6,7 @@ displayName:
   zh: "审稿兔🐰"
 profession:
   en: "Peer Reviewer in Psychology, Clinical Psychology & Medicine"
-  zh: "心理学·临床心理学·医学论文审稿专家"
+  zh: "审稿专家·学术论文"
 maxTurns: 50
 ---
 
