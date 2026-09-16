@@ -83,7 +83,7 @@ description: 以心理学、临床心理学和医学领域同行评审人的身�
 - **Major（主要问题）**：影响结论可信度或研究有效性，作者必须回应或修改（如方法学缺陷、统计错误、关键信息缺失、结论过度宣称）。
 - **Minor（次要问题）**：表述、格式、补充说明、术语一致性、图表可读性、错别字等不影响核心结论的问题。
 
-每条意见写成 1–3 句的精炼段落：先以「定位 + 问题」的句式自然带出（如 In the second paragraph of 2.1 Participants, ... 存在……的问题），再用一句话点到问题为何重要，最后给出修改方向；原因不必向作者作详细解释，如涉及可查证资料，可引导作者查阅相关规范或文献，给修改方向留出余地。意见总数（Major 与 Minor 合计）最多不超过 20 条，分级时优先保留影响结论可信度或研究有效性的问题。
+每条意见写成 1–3 句的精炼段落：先以「定位 + 问题」的句式自然带出（如 In the second paragraph of 2.1 Participants, ... 存在……的问题），再用一句话点到问题为何重要，最后给出修改方向；原因不必向作者作详细解释，如涉及可查证资料，可引导作者查阅相关规范或文献，给修改方向留出余地。若稿件的语言问题有多处（如不完整句、语法错误、前后矛盾或不通顺、措辞不够学术或专业等），应合并为一条意见集中指出，具体写明问题句子所在位置与问题类型并举例说明；该条因需具体定位与举例，篇幅可适当超过 1–3 句。意见总数（Major 与 Minor 合计）最多不超过 20 条，分级时优先保留影响结论可信度或研究有效性的问题。
 
 ### 第五步：给出推荐意见
 
@@ -145,6 +145,8 @@ description: 以心理学、临床心理学和医学领域同行评审人的身�
 ### 8. 可读性与期刊适配
 
 检查摘要与正文一致性、术语和变量命名一致性、图表可读性、结果是否重复堆叠、英文是否达到学术表达要求。语言建议应服务于科学准确性和清晰度，不把审稿变成逐句润色。
+
+若稿件语言问题较多（不完整句、语法错误、前后矛盾或不通顺、措辞不够学术或专业等），合并为一条意见：具体指出有问题的句子所在位置（章节、段落或行号）及其问题类型，并举例说明。问题句不必穷举，可先概括问题再列出文中若干典型句子；该条意见因需具体定位与举例，可稍长。
 
 ## 期刊与相关文献核查
 
@@ -320,6 +322,14 @@ description: 以心理学、临床心理学和医学领域同行评审人的身�
 > Thank you for the thorough and thoughtful revisions. The authors have addressed the substantive concerns, and the additional analyses and clarifications have materially strengthened the manuscript. Provided that the editor agrees, I believe the manuscript is suitable for publication in its current form.
 
 > 感谢作者所做的全面而审慎的修订。实质性问题已得到回应，补充分析和说明显著增强了稿件质量。如果编辑同意，我认为稿件目前已达到发表要求。
+
+### 多处语言问题合并为一条意见
+
+> There are several language issues throughout the manuscript. For example, in the second paragraph of the Introduction, the sentence beginning with "..." is incomplete; in the first paragraph of 3.1 Measures, "..." is grammatically awkward and unclear; and in the Discussion, "..." contradicts the result reported in Table 2. In addition, some expressions (e.g., "..." in 2.2) are colloquial and should be replaced with more academic wording. The authors are advised to carefully proofread the full manuscript to ensure complete sentences, correct grammar, internal consistency, and professional academic wording.
+
+> 稿件中存在多处语言问题。例如，引言第二段以「……」开头的句子不完整；3.1 测量部分第一段「……」存在语法问题、表达不清；讨论部分「……」与表 2 报告的结果相矛盾。此外，部分表述不够学术或专业（如 2.2 中的「……」）。建议作者通篇仔细校对，确保句子完整、语法正确、前后一致，并使用学术、专业的措辞。
+
+> （使用说明：问题句子的位置与问题类型须替换为稿件实际情况，例句不必穷举；先概括问题，再举出文中若干典型句子即可。）
 
 ### 推荐相关文献
 
